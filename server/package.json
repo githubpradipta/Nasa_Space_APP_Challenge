@@ -1,0 +1,18 @@
+{
+  "name": "nasa-space-app",
+  "version": "0.0.1",
+  "description": "This is the backend for Nasa Space Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pradipta Banerjee",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "http-errors": "^2.0.0",
+    "mongoose": "^7.5.4",
+    "nodemon": "^3.0.1"
+  }
+}
